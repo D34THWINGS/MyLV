@@ -1,9 +1,11 @@
-# MyLV
+# [DEPRECATED] MyLV
 
 [![CircleCI](https://circleci.com/gh/LinkValue/MyLV/tree/master.svg?style=svg&circle-token=e8c0d456e0c4d531addc26f22acdfddfc9713ec8)](https://circleci.com/gh/LinkValue/MyLV)
 [![Staging shield](https://img.shields.io/website/https/cracra-staging.herokuapp.com.svg?label=staging&logo=heroku)](https://cracra-staging.herokuapp.com)
 [![Production shield](https://img.shields.io/website/https/cracra.herokuapp.com.svg?label=production&logo=heroku)](https://my.link-value.fr)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+
+⚠️ **This project is no longer maintained** ⚠️
 
 Timesheets editor, vacations manager and transport receipts upload for LinkValue built with React, Redux and HapiJS.
 The objective of this project is to be able to fill out your timesheets/vacations within 10 seconds without effort.
